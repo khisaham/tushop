@@ -1,5 +1,13 @@
 ### Coding Assignment
 
+### How to run the APP
+1. Clone the repo to your locla machine
+2. Navigate to the project folder
+3. just run - docker-compose up  --- ensure you have  docker installed.
+4. Access the app at http://localhost:3000
+
+
+
 Rules:
 Usage of any libraries provided by the language or the framework used is restricted, except for the Mathematics and the I/O libraries.
 Max time allowed: 24hours
